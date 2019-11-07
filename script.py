@@ -2,8 +2,6 @@ import time
 import sys
 import random
 import subprocess
-import multiprocessing as mp
-import threading
 
 from selenium import webdriver
 
